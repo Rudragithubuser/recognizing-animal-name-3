@@ -1,0 +1,59 @@
+**h2{
+    background-color: aquamarine;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div{
+    background-color: rgb(194, 189, 174);
+}
+button{
+    background-color: darkseagreen;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.copy_right_footer{
+    background-color: darkseagreen;
+    
+    bottom: 0;
+    font-size: 20;
+    line-height: 4;
+    text-align: center;
+    text-shadow: 10px 10px 10px rgb(223, 194, 245)
+    (123,35,124);
+}
+
+
+body{
+    background-color: rgb(103, 107, 107);
+    font-family: 'Bungee Spice', sans-serif;
+font-family: 'Metal Mania', system-ui;
+}
+
+#dog
+{
+  height: 6%;
+  width: 50%;
+
+}
+#cat{
+
+    height:45%;
+    width: 40%;
+
+}
+
+
+.main_div{
+   font-weight: bolder; 
+   letter-spacing: 4px;
+   margin-top: 25px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 60%;
+}
